@@ -1,0 +1,57 @@
+body {
+    	background-color: lemonchiffon;
+    	font-family: 'Arial', sans-serif;
+}
+  
+header {
+    	background-color: darkorange;
+    	color: #fff;
+   	padding: 10px;
+    	text-align: left;
+}
+
+.thumbnail {
+      		width: 130px;
+     		height: 130px;
+     		object-fit: cover;
+      		margin: 5px;
+      		border: 1px solid #ddd;
+      		border-radius: 5px;
+		align: left
+}
+
+div { 
+	margin-left: 140px; 
+	padding: 10px;  
+	background-color: whitesmoke; 
+	width: 80%; 
+	box-shadow: 5px 5px 10px #888888;
+}
+
+.image-text-container {
+			display: flex;
+			align-items: center;
+			margin-bottom: 20px;
+}
+
+.image-text-container img {
+			margin-right: 20px;
+}
+
+p {
+	font-size: 17px
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	color: darkgreen;
+}
+
+h3 {
+	font-style: italic;
+}
+
+	

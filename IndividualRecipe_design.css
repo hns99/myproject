@@ -1,0 +1,50 @@
+body {
+    	background-color: palegreen;
+    	font-family: 'Arial', sans-serif;
+}
+  
+header {
+    	background-color: darkgreen;
+    	color: #fff;
+   	padding: 10px;
+    	text-align: left;
+}
+
+.image-container{ 
+	display: flex;
+	align-items: center;
+	height: 450px;
+	width: auto;  
+	background-color: honeydew; 
+	overflow: hidden;
+	
+}
+
+.image-container img {
+	height: 100%;
+	width: auto;
+	object-fit: cover;
+}
+		  
+.item { 
+	margin: 3px; 
+	padding: 10px; 
+	background-color: honeydew; 
+	text-align: left;
+	box-shadow: 5px 5px 10px darkgreen;
+}
+
+
+
+li {
+	font-size: 17px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h3 {
+	color: darkorange;
+}
+
